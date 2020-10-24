@@ -55,7 +55,7 @@ search                   : # true, false (default)
 search_full_content      : # true, false (default)
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="TyBX4Caoo5VdbVXCxMIWKDEpnV92DjIFtPXZ_qyyBUU" />
+google_site_verification : "TyBX4Caoo5VdbVXCxMIWKDEpnV92DjIFtPXZ_qyyBUU"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
