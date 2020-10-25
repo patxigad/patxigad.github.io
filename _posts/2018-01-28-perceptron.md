@@ -2,6 +2,8 @@
 title: "Data Wrangling Project"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
+categories: 
+  - Dataiku DSS
 header:
   image: "/images/code.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
