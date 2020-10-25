@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Jupyter Projects"
     url: /data-wrangling/
-    title: "H2O Projects"
+  - title: "H2O Projects"
     url: /h2o-projects/
-    title: "DSS Projects"
+  - title: "DSS Projects"
     url: /dss-dataiku-projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
