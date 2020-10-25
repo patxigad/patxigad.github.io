@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /data-projects/
+permalink: /categories/
 title: "Data Projects"
 author_profile: true
 header:
