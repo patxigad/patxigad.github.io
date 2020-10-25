@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Data Wrangling Projects"
     url: /data-wrangling/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "H2O Projects"
+     url: /h2o-projects/
+   - title: "DSS Projects"
+     url: /dss-dataiku-projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
