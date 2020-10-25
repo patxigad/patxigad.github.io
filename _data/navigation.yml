@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Wrangling Projects"
+  - title: "Jupyter Projects"
     url: /data-wrangling/
-   - title: "H2O Projects"
-     url: /h2o-projects/
-   - title: "DSS Projects"
-     url: /dss-dataiku-projects/
+    title: "H2O Projects"
+    url: /h2o-projects/
+    title: "DSS Projects"
+    url: /dss-dataiku-projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
